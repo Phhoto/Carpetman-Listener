@@ -1,0 +1,26 @@
+Walkthrough
+
+1 - leave via door in bottom right
+2 - speak to Dana until her third message shows, then use it as a bridge to leave room
+3 - speak to Amit until 5th message shows. Walk over it to retrieve key. Speak to Amit again until 3rd message shows. Walk over it and leave room
+4 - speak to Joey until second message shows, then talk to Kat to form a bridge
+5 - speak to Dana so message shows. Walk up to the new red beam, and press space to remove Dana's message and the beam
+6 - speak to Amit until 3rd message shows. Press space then quickly talk to him again and walk over his first message before the beam reappears
+7 - speak to Dana, walk up Dana's first message to speak to Kat, walk over Kat's message to speak to Joey, press space once to advance Joey to message 2, speak to Amit then walk over Kat 4 Joey 3 and Amit 1 to reach exit
+8 - Speak to Joey and walk on his message and speak to Amit. Return down to near Joey so you don't become stuck in the wall, and press space twice to toggle to Amit's 3rd message. Speak to Joey again and then to Dana. Use Dana 1 and Amit 5 as bridge to exit
+9 - Use K's 3rd message to get past wall. Speak to A followed by J, then walk over J's message and into A's, then walk all the way to the right of A's, past the wall. Press space to get rid of A's message, and walk to exit
+10 - Speak to K once and J once, then walk back over to K. Press space then speak to K again, then walk over K1 and J3 to reach key and back over them to reach the exit
+11 - Speak to D and work your way past the red hazards, pressing space to move the messages along as needed
+12 - Speak to D then to A. Walk over D2 and down to the red hazard. Press space once to get rid of the hazard, move down and press space again to get rid of the last hazard.
+13 - Speaking to J will let you collect the first 3 keys, and there are multiple ways to talk to J and D to collect the last
+14 - Speak to K, walk over K2, speak to A then speak to D then walk over A2 and speak to K, then walk over K1 into D2 and over towards the exit. Dismiss D2 with space once past both walls
+15 - Speak to K first and get message K2 showing, then speak to J to get J2 showing. Walk over J2 into K4 and pick up the key from within the text instead of the one in the 'house'
+16 - Speak to D to get D1 showing. Speak to J to get J1 showing. Stand on top of D2 so that when you press space you are inside D3. Walk as far right as you can. Press space twice to get J4 showing, which you should be on top of and can use to walk to exit
+17 - Speak to middle npc, then right npc, then press space once to toggle messages, then talk to left npc. Walk across the resulting bridge
+18 - Speak to left npc until you are on their 3rd message ("lol"), then speak to right npc. As you press space (slowly), the lights should activate in order
+19- Speak to left npc, then middle left npc, then middle right npc, then press space once to toggle messages, then speak to right npc
+20 - Speaking to Dana will let some bullets through the wall, rush past the beam before it reactivates
+21 - Speak to middle right npc
+22 - Press space until the option to use enter appears. Use enter while facing down at the key to get past the wall to it, then use enter while facing up at the door to get to that too
+23 - Use enter to get down into the menu area (where 'PRESS SPACE TO READ etc is displayed). Be careful not to press enter while inside. Walk left and look up and talk to the leftmost npc. Navigate to and walk over their message to collect the key. Use enter to get back down into the menu and walk to the right where keys are displayed to collect more keys and unlock the door
+24 - Use enter to get close enough to talk to Amit. Walk over his second message. Do the same thing to Joey then Kat and walk over their combined messages.
